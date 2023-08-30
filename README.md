@@ -2,10 +2,10 @@
 
 ## Front-End Developer
 
-- 📚 Antes de comenzar en el Desarrollo Web estudié Biología
-- 🤝 Disfruto del trabajo colaborativo e interdisciplinario. 
-- 💬 En mi tiempo libre me gusta andar en bicicleta y tomar fotografías. 
-- ⚡ Lo que más me gusta de la programación es que, entendiendo el lenguaje, puede leerse por cualquier persona. Como una novela. 
+- 📚 Antes de comenzar en el Desarrollo Web **estudié Biología.**
+- 🤝 Disfruto del trabajo **colaborativo e interdisciplinario.** 
+- 💬 En mi tiempo libre me gusta **andar en bicicleta y tomar fotografías.**
+- ⚡ Lo que **más me gusta de la programación** es que, entendiendo el lenguaje, **puede leerse por cualquier persona.** Como una novela. 
   
 ## Tecnologías y Herramientas
 
